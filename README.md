@@ -1,5 +1,7 @@
 # README: Understanding Stationarity and Transformations in Time Series
 
+Stationarity in a time series refers to the property where a series's statistical characteristics—such as mean, variance, and autocovariance—remain constant over time. In simpler terms, a stationary time series exhibits consistent behavior throughout its length, without any visible trends, shifts in average level, or changing variability.
+
 ## Why is Stationarity Important in Time Series?
 
 **Stationarity** is crucial in time series analysis because many statistical models (like ARIMA, SARIMA) assume that the time series has a constant mean, variance, and autocorrelation over time. This helps in creating reliable, interpretable, and accurate models.
